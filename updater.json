@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "changelog": "Added Animation when using the ATM (Check Config.ATM_Animation)"
+    "version": "1.2",
+    "changelog": "Added usable item to transfer money from card to other players bank account through their id (Config.EnableItemPayments)"
 }
